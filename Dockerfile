@@ -1,4 +1,4 @@
-FROM python:3.12-slim  # Explicitly uses 3.12
+FROM python:3.12-slim
 
 WORKDIR /app
 COPY . .
